@@ -76,5 +76,3 @@ This project is an interactive, agentic AI application that helps users create a
 - pytz
 - dateparser
 
-## License
-MIT
